@@ -8,6 +8,8 @@
 
 ![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahSHortiz&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSHortiz&layout=donut)](https://github.com/SarahSHortiz/github-readme-stats)
+
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.sarahhortiz.com.br)
 
 ### Here are the apps I usually use:
