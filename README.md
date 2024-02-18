@@ -24,10 +24,3 @@
 
 ![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahSHortiz&show_icons=true&theme=onedark)
 
-
-## Top Open Source -
-[![Pet_Feliz](https://github-readme-stats.vercel.app/api/pin/?username=SarahSHortiz&repo=Pet_Feliz&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SarahSHortiz/Pet_Feliz)
-[![Notepad_Rocketseat](https://github-readme-stats.vercel.app/api/pin/?username=SarahSHortiz&repo=Notepad_Rocketseat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SarahSHortiz/Notepad_Rocketseat)
-[![Portfolio_SarahHortiz](https://github-readme-stats.vercel.app/api/pin/?username=SarahSHortiz&repo=Portfolio_SarahHortiz&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SarahSHortiz/Portfolio_SarahHortiz)
-[![Projeto_Acesso_AlunoNumero](https://github-readme-stats.vercel.app/api/pin/?username=SarahSHortiz&repo=Projeto_Acesso_AlunoNumero&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SarahSHortiz/Projeto_Acesso_AlunoNumero)
-
