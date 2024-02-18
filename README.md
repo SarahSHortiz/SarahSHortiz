@@ -1,7 +1,7 @@
 ### Hi, I'm Sarah! ✌️
 
 <div style="display: flex;">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/072/229/503/large/sarah-hortiz-illustration5.jpg?1706886489" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="left">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/072/229/503/large/sarah-hortiz-illustration5.jpg?1706886489" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="left">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Sarah!)](https://github.com/SarahSHortiz)
 </div>
