@@ -6,30 +6,28 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-hortiz-3430131a8/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ssantoshortizr@gmail.com)
 
+<h2> 🚀 &nbsp;O que eu uso</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="React" width="45" height="45"/>
+<img src="https://camo.githubusercontent.com/a37232e5d1c5536ee1d8b7f6529c466ec40fe414d01ff456467219e3372dbffb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" alt="React" width="45" height="45"/>
+</p>
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+ Sou Designer de UX/UI e Programadora Web Júnior. Sou técnica formada em Desenvolvimento de Sistemas e Gestão de Logística. Atualmente, estou no 2º semestre como Analista em Desenvolvimento de Sistemas, agregando conhecimentos técnicos à minha prática profissional.
+</p>
+
 ![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahSHortiz&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSHortiz&layout=donut)](https://github.com/SarahSHortiz/github-readme-stats)
 
-[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.sarahhortiz.com.br)
+## Top Open Source -
+[![Pet_Feliz](https://github-readme-stats.vercel.app/api/pin/?username=SarahSHortiz&repo=Pet_Feliz&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SarahSHortiz/Pet_Feliz)
+[![Notepad_Rocketseat](https://github-readme-stats.vercel.app/api/pin/?username=SarahSHortiz&repo=Notepad_Rocketseat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SarahSHortiz/Notepad_Rocketseat)
+[![Portfolio_SarahHortiz](https://github-readme-stats.vercel.app/api/pin/?username=SarahSHortiz&repo=Portfolio_SarahHortiz&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SarahSHortiz/Portfolio_SarahHortiz)
+[![Projeto_Acesso_AlunoNumero](https://github-readme-stats.vercel.app/api/pin/?username=SarahSHortiz&repo=Projeto_Acesso_AlunoNumero&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SarahSHortiz/Projeto_Acesso_AlunoNumero)
 
-### Here are the apps I usually use:
-
-![Instagram](https://aleen42.github.io/badges/src/photoshop.svg)
-![Instagram](https://aleen42.github.io/badges/src/illustrator.svg)
-![Instagram](https://aleen42.github.io/badges/src/after_effects.svg)
-![Instagram](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Instagram](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Instagram](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important0)
-
-### Here are the languages and libraries I usually use:
-
-![Instagram](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Instagram](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Instagram](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Instagram](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Instagram](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-  Hello, community! 
-  I'm passionate about prototyping, front-end programming, design, and illustrations. I specialize in transforming concepts into engaging digital experiences. 
-  Through prototyping, I bring ideas to life, ensuring functionality and usability. With front-end programming, I create seamless and user-friendly websites and applications. Additionally in design and illustrations adds a visually stunning touch to enhance the overall appeal.
-  Let's connect and collaborate to create remarkable digital solutions!
