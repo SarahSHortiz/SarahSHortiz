@@ -3,7 +3,8 @@
 
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Sarah!)](https://github.com/SarahSHortiz)
-<img src="https://cdnb.artstation.com/p/assets/images/images/072/229/503/large/sarah-hortiz-illustration5.jpg?1706886489" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="left">
+<img src="https://cdnb.artstation.com/p/assets/images/images/072/229/503/large/sarah-hortiz-illustration5.jpg?1706886489" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="left">
+
 <div align="right">
     <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=SarahSHortiz&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="SarahSHortiz github" />
     <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSHortiz&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
