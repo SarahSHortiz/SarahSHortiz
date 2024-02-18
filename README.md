@@ -25,6 +25,6 @@
 </p>
 
 <div align="right">
-    <img width="465px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=SarahSHortiz&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="SarahSHortiz github" />
-    <img width="465px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSHortiz&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+    <img width="400px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=SarahSHortiz&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="SarahSHortiz github" />
+    <img width="400px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSHortiz&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
 </div>
