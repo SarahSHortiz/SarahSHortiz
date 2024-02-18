@@ -4,11 +4,6 @@
 
 <br>
 
-<div align="right">
-    <img width="465px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=SarahSHortiz&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="SarahSHortiz github" />
-    <img width="465px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSHortiz&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
-</div>
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taehortiz/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SarahSHortiz)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-hortiz-3430131a8/)
@@ -28,3 +23,8 @@
 <p align="left"> 
  Sou Designer UX/UI e Programadora Web Júnior. Técnica formada em Desenvolvimento de Sistemas e Gestão Logística. Estou no 2º semestre em Analista em Desenvolvimento de Sistemas, agregando conhecimentos técnicos à minha prática profissional.
 </p>
+
+<div align="right">
+    <img width="465px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=SarahSHortiz&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="SarahSHortiz github" />
+    <img width="465px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSHortiz&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+</div>
