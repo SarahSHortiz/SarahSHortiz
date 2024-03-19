@@ -26,7 +26,7 @@
 </div>
 
 <p align="left"> 
- Sou Designer UX/UI e Programadora frontend Júnior e com objetivo Fullstack. Técnica formada em Desenvolvimento de Sistemas e Gestão Logística. Estou no 2º semestre em Analista e Desenvolvimento de Sistemas pela Fatec, agregando conhecimentos técnicos à minha prática profissional.
+ Sou Designer UX/UI e Programadora frontend Júnior e com objetivo Fullstack. Técnica formada em Desenvolvimento de Sistemas e Gestão Logística. Estou no 2º semestre em Analise e Desenvolvimento de Sistemas pela Fatec, agregando conhecimentos técnicos à minha prática profissional.
 </p>
 
 <div align="right">
